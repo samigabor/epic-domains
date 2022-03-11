@@ -1,0 +1,3 @@
+[submodule "epic-domains-ui"]
+	path = epic-domains-ui
+	url = https://github.com/samigabor/epic-domains-ui
